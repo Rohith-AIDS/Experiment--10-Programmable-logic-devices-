@@ -33,8 +33,8 @@ Figure -01 PROM
 ```
 
 Program for PROM 
-Developed by: A.VIRGIL JOVITA
-RegisterNumber:  212221240062
+Developed by: SV ROHITHKUMAR
+RegisterNumber:  212221230084
 
 module ten(out,addr,clk);
 output[15:0] out;
